@@ -6,7 +6,7 @@ CodeCam is a web platform specifically designed for conducting Online Coding int
 
 - Collaborative code editor:  which can be used by the student to code and the interviewer to give questions.
 
-- There is also video monitoring functionality for the student , when the student starts their video the head movements of the studnet will be tracked and notified. If the the students moves after a warning the session can ended!
+- There is also video monitoring functionality for the student , when the student starts their video the head movements of the studnet will be tracked and notified. If the the students moves after a warning the session can be ended!
 
 - There will be a chat functionality for communication.
 
